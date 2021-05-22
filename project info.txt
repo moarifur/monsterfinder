@@ -1,0 +1,3 @@
+Project 01 - Monster Finder App 
+Objective: DOM + addEventListener + Module
+Outcome: Search engine creation  
